@@ -37,7 +37,7 @@ and update data from the server.
 
 Now, you might think "This is old as shit. Why would I never need to know about it?"
 
-## *Well*, \*ahem\*
+### *Well*, \*ahem\*
 
 #### [You can still run this shit](http://www.oracle.com/technetwork/products/rdb/index-086844.html)
 
@@ -57,4 +57,26 @@ And here's their note on it:
 ```
 
 **IMS**
+
+## 70s
+
+## 80s
+
+## 90s
+
+## 00's and On
+
+# Principles
+
+## ACID
+
+## BASE
+
+## CAP
+
+## Paxos
+
+## Raft
+
+## NoSql
 
